@@ -96,5 +96,9 @@ After completing this project, students will understand:
 **Digna Vora**
 
 ## Project Type
+Connect me:
+email : dignavora8233@gmail.com
+linkedin : www.linkedin.com/in/digna-vora-b135a3416
+
 
 Python Fundamentals Practice Project
