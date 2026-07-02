@@ -97,6 +97,7 @@ After completing this project, students will understand:
 
 ## Project Type
 Connect me:
+
 email : dignavora8233@gmail.com
 linkedin : www.linkedin.com/in/digna-vora-b135a3416
 
