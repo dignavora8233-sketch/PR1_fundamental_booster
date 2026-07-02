@@ -241,6 +241,9 @@ If you found this project helpful, consider giving it a ⭐ on GitHub.
 # 📄 License
 
 This project is created for **educational and learning purposes** and is free to use, modify, and share for academic or personal practice.
+
 📬 Contact Me:
+
 📧 Email:dignavora8233@gmail.com
+
 🌐 LinkedIn:www.linkedin.com/in/digna-vora-b135a3416
