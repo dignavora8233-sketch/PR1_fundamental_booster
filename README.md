@@ -237,8 +237,10 @@ If you'd like to improve this project, feel free to fork the repository and subm
 If you found this project helpful, consider giving it a ⭐ on GitHub.
 
 ---
-Google drive : 
+Explanation video :
+
 https://drive.google.com/file/d/1B8EXYGCMGTBkSRKvuOoqAfPqnYsy6hEq/view?usp=drive_link
+
 # 📄 License
 
 This project is created for **educational and learning purposes** and is free to use, modify, and share for academic or personal practice.
